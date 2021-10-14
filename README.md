@@ -1,0 +1,1 @@
+This project will be the most complete scheduler to your life. You will be able to access it from web, mobile and desktop applications
